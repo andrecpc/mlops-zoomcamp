@@ -1,0 +1,6 @@
+q1 - train_model
+q2 - 11.637
+q3 - 13,000 bytes
+q4 - 0 9 15 * *
+q5 - 3
+q6 - prefect work-queue ls

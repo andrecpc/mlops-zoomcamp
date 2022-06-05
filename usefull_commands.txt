@@ -1,0 +1,8 @@
+# open explorer in wsl
+explorer.exe .
+
+# download data
+wget https://nyc-tlc.s3.amazonaws.com/trip+data/fhv_tripdata_2021-01.parquet -O fhv_tripdata_2021-01.parquet
+wget https://nyc-tlc.s3.amazonaws.com/trip+data/fhv_tripdata_2021-02.parquet -O fhv_tripdata_2021-02.parquet
+wget https://nyc-tlc.s3.amazonaws.com/trip+data/fhv_tripdata_2021-02.parquet -O fhv_tripdata_2021-06.parquet
+wget https://nyc-tlc.s3.amazonaws.com/trip+data/fhv_tripdata_2021-02.parquet -O fhv_tripdata_2021-07.parquet
